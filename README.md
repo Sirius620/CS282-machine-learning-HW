@@ -1,2 +1,2 @@
-# CS282-machine-learning-HW3
+# CS282-machine-learning-HW
 the programming part of cs282
